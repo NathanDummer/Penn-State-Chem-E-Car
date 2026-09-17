@@ -2,7 +2,8 @@ Primary Editors:
 	Calvin Keyser
 
 Objective:
-	This year used ...
+	This year used a legged-vehicle model which requires significantly more electrical and programming work. There is one central control program 
+	with numerous functions to differentiate operations.
 
 Key Details:
 	
